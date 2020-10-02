@@ -1,4 +1,5 @@
 # Factorio Tools
+# Updated As of October
 
 This repository contains two tools which support the [Factorio Calculator](https://kirkmcdonald.github.io/calc.html) ([repo](https://github.com/KirkMcDonald/kirkmcdonald.github.io)).
 
